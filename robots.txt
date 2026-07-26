@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dxcd0r.musicinthepark.live/sitemap.xml
